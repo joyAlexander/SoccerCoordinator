@@ -104,11 +104,11 @@ for player in dragons {
 }
 
 for player in sharks {
-    print ("Dear \(player["guardians"]!), We are happy to inform you that \(player["name"]!) has been placed in the Sharks Team! The first practice will take place on March 17th at 1pm. See you then!")
+    print ("Dear \(player["guardians"]!), We are happy to inform you that \(player["name"]!) has been placed in the Sharks Team! The first practice will take place on March 17th at 3pm. See you then!")
 }
 
 for player in raptors {
-    print ("Dear \(player["guardians"]!), We are happy to inform you that \(player["name"]!) has been placed in the Raptors Team! The first practice will take place on March 17th at 1pm. See you then!")
+    print ("Dear \(player["guardians"]!), We are happy to inform you that \(player["name"]!) has been placed in the Raptors Team! The first practice will take place on March 18th at 1pm. See you then!")
 }
 
 
